@@ -157,3 +157,9 @@ footer strong {
         font-size: 2rem;
     }
 }
+.highlight {
+    background-color: #ffeb3b; /* Warna kuning stabilo */
+    color: #000;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
